@@ -10,7 +10,7 @@ const siteContent = {
   },
   cta: {
     h1: 'Profesyonel Barista Eğitimi',
-    button: 'Hemen Kayıt Olun',
+    button: 'Cold Brew Theme',
   },
   'top-content': {
     'left-h4': 'Kabul Şartları',
@@ -62,8 +62,13 @@ logo.src=siteContent.images["logo-img"];
 const baslik=document.querySelector(".cta-text h1")
 baslik.textContent=siteContent.cta.h1;
 
+
+const container=document.querySelector(".container");
 const buton=document.querySelector(".cta-text button")
 buton.textContent=siteContent.cta.button;
+buton.addEventListener("click",(event)=>{
+  
+})
 
 const imıc=document.querySelector(".cta #cta-img")
 imıc.src=siteContent.images["cta-img"]
@@ -106,3 +111,15 @@ contactPs[2].textContent = siteContent.contact.email;
 
 const footerLink = document.querySelector('footer a');
 footerLink.textContent = siteContent.footer.copyright;
+
+buton.addEventListener("click",()=>{
+  const container=document.querySelector(".container");
+  container.classList.toggle("darkTheme");
+
+  if (container.classList.contains("darkTheme")) {
+    buton.textContent = "Latte Theme";
+    
+  } else {
+    buton.textContent = "Cold Brew Theme";
+  }
+})

@@ -4,6 +4,13 @@
   margin: 0 auto;
 }
 
+.darkTheme{
+  background-color: rgb(91, 39, 4);
+  width: 80%;
+  margin: 0 auto;
+  color: white;
+}
+
 header{
   display: flex; 
   flex-direction: row;
@@ -28,6 +35,10 @@ header nav a{
   font-style: normal;
   transition: transform 0.3s ease;
   
+}
+
+.darkTheme header nav a{
+    color: white;
 }
 
 header nav a:hover{
@@ -58,8 +69,14 @@ header img:hover{
 
 .cta img{
   width: 25%;
+
 }
 
+.darkTheme .cta img{
+    background-color: white;
+    border-radius: 15rem;
+
+}
 .cta-text h1{
   font-family: "Londrina Solid", sans-serif;
   font-weight:600;
@@ -111,6 +128,7 @@ header img:hover{
   display: block;
   width: 80%;
   margin: 0 auto;
+  border-radius: 2rem;
 }
 
 .bottom-content{
@@ -139,4 +157,8 @@ footer a{
   color: rgba(0, 0, 0, 0.492);
   text-decoration: none;
   font-weight: bold;
+}
+
+.darkTheme footer a{
+  color: white;
 }
