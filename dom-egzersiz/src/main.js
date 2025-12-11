@@ -3,52 +3,52 @@ const siteContent = {
   nav: {
     'nav-item-1': 'Eğitimler',
     'nav-item-2': 'Eğitmenler',
-    'nav-item-3': 'Sorular',
+    'nav-item-3': 'SSS',
     'nav-item-4': 'Blog',
     'nav-item-5': 'Hakkımızda',
     'nav-item-6': 'İletişim',
   },
   cta: {
-    h1: 'Full Stack Web Developer',
-    button: 'Kayıt Olun',
+    h1: 'Profesyonel Barista Eğitimi',
+    button: 'Hemen Kayıt Olun',
   },
   'top-content': {
     'left-h4': 'Kabul Şartları',
     'left-content':
-      'Öğrencilerimizde en başta şu iki özelliği arıyoruz: yazılımcı olmak için gereken analitik yatkınlık (ki bunu C-CAT testi ile ölçüyoruz) ve yazılımcı olma konusunda istek ve kararlılık. Şirket olarak başlangıçta öğretim ücreti almıyoruz ve her yetiştirdiğimiz öğrenci için bir maliyetin altına giriyoruz. Bu sebeple, mezun olup başarılı bir kariyere sahip olacağını öngördüğümüz öğrencilere öncelik vermeye gayret ediyoruz.',
+      'Katılımcılarımızda öncelikle kahveye karşı gerçek bir merak ve öğrenme isteği arıyoruz. Yoğun tempoda çalışmaya uygun olmak, ayakta uzun süre durabilmek ve ekip çalışmasına yatkınlık bu meslekte başarı için kritik özellikler. Daha önce kafe veya restoran deneyimi zorunlu değil; ancak misafir ağırlamayı seven, insanlarla iletişim kurmaktan keyif alan adaylara öncelik veriyoruz. Eğitim sürecinde hijyen kurallarına uyum, disiplin ve derse devamlılık da beklentilerimiz arasında yer alıyor.',
     'right-h4': 'Haftalık Program',
     'right-content':
-      'Program haftada 40 saatinizi talep ediyor. Tam zamanlı bir işte çalışırken bu zamanı ayırmanız maalesef mümkün değil. Ancak, part-time bir iş veya daha az zorlayıcı son sınıf dersleriyle program rahatlıkla tamamlanabilir. Programın sunduğu önemli bir kolaylık da her ay yeni bir sınıfın açılıyor oluşu.',
+      'Program haftada toplam 40 saatinizi talep ediyor ve hem teorik hem de yoğun pratik derslerden oluşuyor. Hafta içi akşam saatlerinde kahve teorisi, çekirdek türleri ve demleme yöntemleri işlenirken, hafta sonları espresso makinesi kullanımı, süt tekstürü ve latte art uygulamaları yapılıyor. İleri seviyede müşteri iletişimi, bar organizasyonu ve hız çalışmaları için de düzenli simülasyon oturumları planlanıyor. Böylece katılımcılar gerçek bir kafe ortamına en yakın koşullarda kendilerini geliştirebiliyor.',
   },
   'bottom-content': {
-    'left-h4': 'EN YETENEKLİLERİ 6 AY YETİŞTİRİYORUZ.',
+    'left-h4': '3 AYDA KAHVE PROFESYONELİ YETİŞTİRİYORUZ.',
     'left-content':
-      "Workintech olarak binlerce başvurudan potansiyeli en yüksek olanları seçiyoruz. Her 9 başvurudan 1'i programımıza kabul alıyor. 6 ay süresince Full-Stack Yazılımcı olarak yetiştiriyoruz.",
-    'middle-h4': "BOOTCAMPLER'DEN FARKLI-İLK GÜNDEN İŞE HAZIR ADAYLAR",
+      'Barista Akademi olarak başvurular arasından kahveye en çok ilgi duyan ve mesleği gerçekten kariyer hedefi haline getiren adayları seçiyoruz. Küçük sınıflar halinde, bire bir geri bildirim alabileceğiniz bir ortamda çalışıyoruz. Üç ay süresince espresso bazlı içeceklerden filtre kahveye, soğuk demleme tekniklerinden alternatif demleme ekipmanlarına kadar geniş bir yelpazede eğitim veriyor, katılımcıları sektörün beklentilerine hazır hale getiriyoruz.',
+    'middle-h4': 'SADECE TARİF DEĞİL, MESLEK ÖĞRETİYORUZ',
     'middle-content':
-      'Workintech eğitim programı sıfırdan yazılımcı yetiştiren, toplamı bin saati aşan, yoğun ve zorlayıcı bir eğitim. Daha kısa süreli kurslara oranla çok daha sağlam bir temel atıyoruz. Ayrıca Workintech´te sınıf başına bir ücret ödemeniz gerekmiyor.',
-    'right-h4':
-      'ŞİRKETİNİZE EN UYGUN ADAYLARI SİZİN İÇİN İŞE HAZIR HALE GETİRİYORUZ',
+      'Eğitim programımız yalnızca içecek reçetelerini ezberletmekten çok daha fazlasını hedefliyor. Bar arkasındaki iş akışını planlama, yoğun saatlerde zaman yönetimi, stok ve maliyet kontrolü, müşteri şikayetlerini profesyonelce yönetme gibi konulara da detaylı şekilde yer veriyoruz. Uygulamalı derslerde her öğrencinin makine başında yeterli süre geçirerek el pratiği kazanmasına özen gösteriyoruz. Böylece mezunlarımız, ilk iş günlerinde bile özgüvenle tezgâha geçebiliyor.',
+    'right-h4': 'KAFENİZE İŞE HAZIR BARİSTALAR YETİŞTİRİYORUZ',
     'right-content':
-      "Workintech´in size özel atanmış ise alım uzmanı yıl boyunca sizi en ideal adaylarla buluşturuyor. Programın son aylarında seçtiğiniz adaylar için staj, part-time, oryantasyon gibi programlarınızı Workintech'e entegre etme imkanı sağlıyoruz. Böylece yeni çalışanınız daha ilk günden işe hazır hale geliyor.",
+      'Kahve dükkanları ve zincir kafelerle yıl boyunca iş birliği içinde çalışıyor, işletmelerin ihtiyaç duyduğu nitelikli baristaları birlikte seçiyoruz. Programın son haftalarında, iş görüşmesi simülasyonları, deneme vardiyaları ve isteğe bağlı staj imkanları sunuyoruz. İşe alım süreçlerinizi eğitim programımıza entegre ederek yeni çalışanınızın makine kullanımına, reçetelere ve servis standartlarınıza çok daha hızlı uyum sağlamasını hedefliyoruz.',
   },
   contact: {
     'contact-h4': 'İLETİŞİM',
-    address: 'Bağdat Cad. No:302/1 D:4 Kadıköy İstanbul, Türkiye',
-    phone: '+90 (216) 550-5905',
-    email: 'bilgi@birsirketsitesi.com.tr',
+    address: 'Kahve Sokak No:12 Barista Plaza Beyoğlu İstanbul, Türkiye',
+    phone: '+90 (212) 555-1234',
+    email: 'info@baristaakademi.com',
   },
   footer: {
-    copyright: 'Copyright Bir Şirket Sitesi 2023',
+    copyright: 'Copyright Barista Akademi 2025',
   },
   images: {
-    'logo-img': 'https://i.ibb.co/42PDMF2/logo.png',
-    'cta-img': 'https://i.ibb.co/XssVKxk/cta.png',
-    'accent-img': 'https://i.ibb.co/5FZmL26/accent.png',
+    'logo-img': 'https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Barista_%28company%29.svg/1200px-Barista_%28company%29.svg.png',
+    'cta-img': 'https://cdn.pixabay.com/photo/2014/11/27/12/24/coffee-547490_1280.png',
+    'accent-img': 'https://media.istockphoto.com/id/959307778/tr/foto%C4%9Fraf/bardak-kahve-ile-yatay-bir-sat%C4%B1rda-bertaraf.jpg?s=170667a&w=0&k=20&c=yfoFSXBK3eCoUjMFQr0iLBkmHF0kFCgSxjrAwIADeaU=',
   },
 };
 
-/* Kodlar Buradan aşağıya */
+
+
 
 const menus=document.querySelectorAll("header nav a")
 menus.forEach((menu,index)=>{
@@ -61,3 +61,48 @@ logo.src=siteContent.images["logo-img"];
 
 const baslik=document.querySelector(".cta-text h1")
 baslik.textContent=siteContent.cta.h1;
+
+const buton=document.querySelector(".cta-text button")
+buton.textContent=siteContent.cta.button;
+
+const imıc=document.querySelector(".cta #cta-img")
+imıc.src=siteContent.images["cta-img"]
+
+
+const topBlocks = document.querySelectorAll('.top-content .text-content');
+const leftBlock = topBlocks[0];
+const rightBlock = topBlocks[1];
+
+leftBlock.querySelector('h4').textContent = siteContent['top-content']['left-h4'];
+leftBlock.querySelector('p').textContent = siteContent['top-content']['left-content'];
+
+rightBlock.querySelector('h4').textContent = siteContent['top-content']['right-h4'];
+rightBlock.querySelector('p').textContent = siteContent['top-content']['right-content'];
+
+const middleImage = document.getElementById("middle-img");
+middleImage.src = siteContent.images["accent-img"];
+
+const bottomBlocks = document.querySelectorAll(
+  '.bottom-content .text-content'
+);
+
+bottomBlocks[0].querySelector('h4').textContent = siteContent['bottom-content']['left-h4'];
+bottomBlocks[0].querySelector('p').textContent = siteContent['bottom-content']['left-content'];
+
+bottomBlocks[1].querySelector('h4').textContent = siteContent['bottom-content']['middle-h4'];
+bottomBlocks[1].querySelector('p').textContent = siteContent['bottom-content']['middle-content'];
+
+bottomBlocks[2].querySelector('h4').textContent = siteContent['bottom-content']['right-h4'];
+bottomBlocks[2].querySelector('p').textContent = siteContent['bottom-content']['right-content'];
+
+const contactSection = document.querySelector('.contact');
+const contactH4 = contactSection.querySelector('h4');
+const contactPs = contactSection.querySelectorAll('p');
+
+contactH4.textContent = siteContent.contact['contact-h4'];
+contactPs[0].textContent = siteContent.contact.address;
+contactPs[1].textContent = siteContent.contact.phone;
+contactPs[2].textContent = siteContent.contact.email;
+
+const footerLink = document.querySelector('footer a');
+footerLink.textContent = siteContent.footer.copyright;
