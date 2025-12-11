@@ -7,8 +7,6 @@ body{
 
 .darkTheme{
   background-color: rgb(91, 39, 4);
-  width: 80%;
-  margin: 0 auto;
   color: white;
 }
 
@@ -89,7 +87,12 @@ header img:hover{
 .darkTheme .cta img{
     background-color: white;
     border-radius: 15rem;
+    transition: transform 0.2s ease;
+    cursor: pointer;
+}
 
+.darkTheme .cta img:hover{
+  transform: scale(1.1);
 }
 .cta-text h1{
   font-family: "Londrina Solid", sans-serif;
